@@ -1,6 +1,5 @@
-package com.example.duan1comicappsum23;
+package com.example.duancomicapp;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
