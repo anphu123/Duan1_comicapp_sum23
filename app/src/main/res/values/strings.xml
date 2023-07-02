@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Duan1_comicapp_sum23</string>
+    <string name="app_name1">Comic App</string>
     <string name="new_user_signup">New User ? <b>SignUp</b></string>
 </resources>
